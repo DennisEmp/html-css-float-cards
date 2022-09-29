@@ -3,14 +3,29 @@
 *{
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
-
+    box-sizing: 100%;
 }
 
 /* BODY */
 
+body{
+    height: 100%;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
 /* header */
 
 .int{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    margin-top: 35px;
+    color: rgb(255, 0, 123);
+}
+
+#testo{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-size: medium;
     
 }

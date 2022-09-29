@@ -4,8 +4,15 @@
     
 }
 
-.upleft{
-    background-color: black;
-    width: 50px;
+
+.col{
+    width: calc(100% / 3);
     height: 50px;
+    float: left;
+}
+
+.card{
+    background-color: black;
+    
+    
 }

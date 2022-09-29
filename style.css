@@ -33,8 +33,6 @@ body{
 }
 
 .col{
-    padding-top: 10%;
-    padding-bottom: 10%;
     width: calc(100% / 3);
     height: 50px;
     float: left;
@@ -44,4 +42,5 @@ body{
     background-color: black;
     width: 80px;
     height: 35px;
+    border-radius: 5px;
 }
